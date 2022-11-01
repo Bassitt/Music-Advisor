@@ -3,7 +3,7 @@
 Below is an output example of the described program. Try to output all cases like in the example.
 
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
-
+<pre>
 > new
 Please, provide access for application.
 > featured
@@ -19,3 +19,4 @@ The Greatest Show [Panic! At The Disco]
 All Out Life [Slipknot]
 > exit
 ---GOODBYE!---
+<pre>
